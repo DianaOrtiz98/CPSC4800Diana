@@ -1,7 +1,7 @@
 # CPSC4800Diana
 Testing Repo
 
-# Description
+## Description
 This is a sample project
-# Installation
-# Requierments
+## Installation
+## Requierments
